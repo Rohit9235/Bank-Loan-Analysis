@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/7fee6144-6010-46c4-af7d-22c15591289b)# Bank-Loan-Analysis
+# Bank-Loan-Analysis
 The Bank Loan Report Project combines SQL for data manipulation and Tableau for visualization to create a comprehensive report on bank loan data. This report aims to provide stakeholders with actionable insights into loan applications, approvals, and related metrics.
 
 Tools- Microsoft Excel, Power BI, Tableau, MySQL
